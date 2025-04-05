@@ -88,4 +88,4 @@ This project is licensed under the **MIT License**.
 ## 🙋‍♂️ Author
 
 Made with ❤️ by Tanya Maheshwari
-GitHub: [https://github.com/your-username](https://github.com/Tanya0301-oss)
+GitHub: [https://github.com/Tanya0301-oss](https://github.com/Tanya0301-oss)
