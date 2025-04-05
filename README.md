@@ -87,5 +87,5 @@ This project is licensed under the **MIT License**.
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Your Name Here]\
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+Made with ❤️ by Tanya Maheshwari
+GitHub: [https://github.com/your-username](https://github.com/Tanya0301-oss)
